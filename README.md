@@ -5,8 +5,8 @@
             <hr style="width:300px;">
         </div>
         <ul>
-            <li>I'm currently learning <b>Full stack Developement with java</b></li>
-            <li>I'm looking for help to collaborate on <b>Web Developement project</b></li>
+            <li>I'm currently learning <b>Full stack Development with java</b></li>
+            <li>I'm looking for help to collaborate on <b>Web Development project</b></li>
             <li>All of my projects are available on <a
                     href="https://github.com/abhisheksolanki8770">github.com/abhisheksolanki8770</a></li>
             <li>How to reach me <a href="mailto:abhisheksolanki8770@gmail.com">abhisheksolanki8770@gmail.com</a></li>
